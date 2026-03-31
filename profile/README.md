@@ -1,10 +1,10 @@
 ## Beckham Labs
 
-We build tools that make AI accessible on the hardware people already own.
+Building the world's largest peer-to-peer AI network.
 
 ### Projects
 
-- **[HiveBear](https://github.com/BeckhamLabsLLC/HiveBear)** — Run open-source LLMs on any device, from Raspberry Pis to gaming PCs. Auto hardware profiling, smart model selection, P2P distributed inference, and an OpenAI-compatible API. Written in Rust.
+- **[HiveBear](https://github.com/BeckhamLabsLLC/HiveBear)** — P2P mesh network for distributed AI inference. Every device is a node. Pool compute across machines to run any model, regardless of individual hardware. Written in Rust.
 
 ### Links
 
